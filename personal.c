@@ -1,6 +1,8 @@
-/* Name:RABUT RE SHALOM
-Registration number:PA106/G/29293/25
-Assignement about a prompt to show name idnumber and bank balance*/
+/*
+Name:Shariff lukalia
+Registration number:PA106/G/28761/25
+Description:displaying age idnumber and bank balance 
+*/
 #include <stdio.h>
 
 int main() {
